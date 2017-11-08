@@ -19,8 +19,6 @@ The repository consists of a WAR file.
 6. Paste in a browser of your choice
 7. Setup MySQL java connector
 
-Structure of the project and operations:
-
 Data Write Operation
 ====================
 Step 1: Read username and password
